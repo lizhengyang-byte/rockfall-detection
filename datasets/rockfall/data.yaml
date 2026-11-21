@@ -1,5 +1,5 @@
 # Rockfall/Landslide detection dataset (auto-generated)
-path: C:/Users/30353/Desktop/桌面整理/02_科研与AI项目/rockfall/datasets/rockfall
+path: datasets/rockfall
 train: images/train
 val: images/val
 test: images/test

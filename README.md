@@ -220,6 +220,8 @@ pip install -r requirements.txt
 ```
 
 > 需要 CUDA 版 PyTorch 才能用 GPU 训练；CPU 也能运行，但训练会很慢。项目在 `torch 2.6.0+cu124` + `ultralytics 8.4.202` 下验证通过。
+>
+> ⚠️ 所有命令请在**仓库根目录**执行：`datasets/rockfall/data.yaml` 中的 `path: datasets/rockfall` 是相对路径，依赖当前工作目录来解析。
 
 ### 2. 直接使用（权重与数据已入库）
 
