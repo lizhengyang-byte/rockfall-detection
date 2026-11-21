@@ -1,0 +1,18 @@
+# Core experiment dependencies (verified with Python 3.12, CUDA 12.4)
+torch>=2.4
+torchvision>=0.19
+ultralytics>=8.3
+opencv-python>=4.10
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+pyyaml>=6.0
+
+# Notebook
+jupyterlab>=4.0
+ipykernel>=6.29
+
+# Optional: regenerate the PDF report from the notebook (see _html2pdf.py)
+# nbconvert>=7.16
+# playwright>=1.40

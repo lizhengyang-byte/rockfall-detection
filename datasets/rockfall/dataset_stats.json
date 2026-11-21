@@ -1,0 +1,37 @@
+{
+  "class_names": {
+    "0": "rockfall",
+    "1": "landslides",
+    "2": "隧道"
+  },
+  "num_classes": 3,
+  "splits": {
+    "train": {
+      "images": 1316,
+      "boxes": 3712,
+      "per_class": {
+        "0": 2675,
+        "1": 1031,
+        "2": 6
+      }
+    },
+    "val": {
+      "images": 390,
+      "boxes": 814,
+      "per_class": {
+        "1": 338,
+        "0": 476
+      }
+    },
+    "test": {
+      "images": 258,
+      "boxes": 710,
+      "per_class": {
+        "1": 222,
+        "0": 488
+      }
+    }
+  },
+  "downloaded_bytes": 4406582,
+  "failed": []
+}

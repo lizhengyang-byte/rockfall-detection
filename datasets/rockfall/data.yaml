@@ -1,0 +1,10 @@
+# Rockfall/Landslide detection dataset (auto-generated)
+path: C:/Users/30353/Desktop/桌面整理/02_科研与AI项目/rockfall/datasets/rockfall
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+  0: rockfall
+  1: landslides
+  2: 隧道

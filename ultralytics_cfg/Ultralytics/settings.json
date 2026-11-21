@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\30353\\Desktop\\\u684c\u9762\u6574\u7406\\02_\u79d1\u7814\u4e0eAI\u9879\u76ee\\rockfall\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "e66d1a2867e5de3949fb684134430b6a67c8e26927ac6f73c6225703a57870ab",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
