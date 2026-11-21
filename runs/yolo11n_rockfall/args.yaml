@@ -2,7 +2,7 @@ task: detect
 mode: train
 model: yolo11n.pt
 data: datasets\rockfall\data.yaml
-epochs: 60
+epochs: 3
 time: null
 patience: 20
 batch: 8
